@@ -1,1 +1,1 @@
-this my first project game which is small game the game is about guessing a number randomly 
+this my second project game which is small game, the game is about guessing a number randomly 
